@@ -57,11 +57,11 @@ Other configuration can be decided by yourself, based on the instance being used
 ## Questions
 
  1. How long did you spend on this assessment in total?\
- - 3 Hours
+ - 2 Hours
 
  2. What was the most difficult task?\
- _ No task was difficult to complete. Deploying image to Kubernetes using Github Actions took some time because this is my first time interaction with AWS EKS Cluster.
+ - No task was difficult to complete. Deploying image to Kubernetes using Github Actions took some time because this is my first time interaction with AWS EKS Cluster.
 
  3. If you had an unlimited amount of time to complete this task, what would you have done differently?\
- _ If I had unlimited amount of time I would first deep study about Github Actions module that I am going to use and best security practice for it which will help me in long term and work efficiently in future.
+ - If I had unlimited amount of time I would first deep study about Github Actions module that I am going to use and best security practice for it which will help me in long term and work efficiently in future.
 
